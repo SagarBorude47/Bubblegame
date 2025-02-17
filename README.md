@@ -17,26 +17,4 @@ This game helps with improving typing skills and reaction time.
 - CSS
 - JavaScript (Vanilla)
 
-## How to Play
-1. Once the page loads, bubbles will begin to appear at the bottom of the screen.
-2. Each bubble contains a random character (e.g., numbers, letters, or special symbols).
-3. Press the corresponding key to remove a bubble.
-4. The game runs until you decide to stop the page.
-5. You can track:
-    - The **time elapsed** since the game started.
-    - The **number of active bubbles** on screen.
-    - Your **current score**.
-
-## Installation Instructions
-1. Clone or download the repository to your local machine:
-    ```bash
-    git clone https://github.com/yourusername/bubble-game.git
-    ```
-2. Open the `index.html` file in any web browser to start playing the game.
-
-## How to Contribute
-Feel free to fork the repository and submit a pull request with improvements, bug fixes, or additional features. Please ensure your changes are tested before submitting.
-
-## License
-This project is licensed under the MIT License.
 
